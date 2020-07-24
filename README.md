@@ -12,7 +12,6 @@
 - ⚡ Fun fact **Are called bugs because the first computer was mechanical and the bugs caused some issues inside the mechanism.**
 
 <p align="left">
-  https://camo.githubusercontent.com/4683d18a4a9f845dd7de377a6915dcfc9739a661/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667
 <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
