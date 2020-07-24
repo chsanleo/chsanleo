@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">Engineer who enjoys developing and learn new cool technology stuff.</h3>
+<h3 align="center">I am a engineer who enjoys developing and learn new cool technology stuff.(IT guy!)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chsanleo" alt="chsanleo" /> </p>
 
 - 👨‍💻 All of my projects are available at [HErE! https://github.com/chsanleo](HErE! https://github.com/chsanleo)
