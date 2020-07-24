@@ -33,7 +33,7 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>
 </p>
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=chsanleo&show_icons=true" alt="chsanleo" /> </p>
-<p align="left">[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chsanleo)](https://github.com/chsanleo)</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsanleo" alt="chsanleo" /> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/christian-sanchez-leon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christian" height="20" width="20" /></a>
 </p>
