@@ -30,13 +30,10 @@ DEVELOP:<br/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 &nbsp;&nbsp;
-<img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="40" height="40"/>
+<img src="https://www.seekpng.com/png/detail/8-80775_spring-logo-png-transparent-spring-java.png" alt="spring" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -55,7 +52,9 @@ TECH:<br/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 &nbsp;&nbsp;
-<img src="https://static.vecteezy.com/system/resources/previews/021/217/813/non_2x/ai-brain-with-lines-of-connection-style-setting-up-for-new-installation-icon-and-artifical-intelligent-symbol-concepts-design-free-vector.jpg" alt="AI" width="40" height="40"/> 
+<img src="https://static.vecteezy.com/system/resources/previews/021/217/813/non_2x/ai-brain-with-lines-of-connection-style-setting-up-for-new-installation-icon-and-artifical-intelligent-symbol-concepts-design-free-vector.jpg" alt="AI" width="40" height="40"/>
+&nbsp;&nbsp;
+<img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="JupyterNotebook" width="40" height="40"/>
 </p>
 
 <div>
